@@ -12,6 +12,7 @@
 #include "Solves\S39.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
+#include "Solves\S994.hpp"
 
 using namespace std;
 
@@ -480,7 +481,6 @@ public:
 				else if (ju * 2 == p)
 					return 0;
 			}
-
 		}
 	}
 };
@@ -765,15 +765,15 @@ public:
 
 int main()
 {
-	TreeNode* t = new TreeNode(2);
-	TreeNode* t1 = new TreeNode(1);
-	TreeNode* t2 = new TreeNode(3);
-	t->left = t1;
-	t->right = t2;
-	Codec449 c449;
-	string s = c449.serialize(t);
+	S994 s;
+	vector<int>v1 = { 2,1,1 };
+	vector<int>v2 = { 1,1,0 };
+	vector<int>v3 = { 0,1,1 };
 
-	TreeNode* t3 = c449.deserialize(s);
+	vector<vector<int> >v = { v1,v2,v3 };
+
+	printf("%d",s.orangesRotting(v));
+
 
 	return 0;
 }
