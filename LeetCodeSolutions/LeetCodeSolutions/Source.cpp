@@ -9,6 +9,7 @@
 #include <set>
 
 #include "Solves\S410.hpp"
+#include "Solves\S922.hpp"
 
 using namespace std;
 
