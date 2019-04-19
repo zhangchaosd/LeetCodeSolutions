@@ -9,6 +9,7 @@
 #include <set>
 
 #include "Solves\S13.hpp"
+#include "Solves\S15.hpp"
 #include "Solves\S39.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
@@ -765,14 +766,14 @@ public:
 
 int main()
 {
-	S994 s;
-	vector<int>v1 = { 2,1,1 };
+	S15 s;
+	vector<int>v1 = { 1,-1,-1,0 };
 	vector<int>v2 = { 1,1,0 };
 	vector<int>v3 = { 0,1,1 };
 
 	vector<vector<int> >v = { v1,v2,v3 };
 
-	printf("%d",s.orangesRotting(v));
+	printf("%d",s.threeSum(v1));
 
 
 	return 0;
