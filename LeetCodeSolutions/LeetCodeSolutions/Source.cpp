@@ -8,7 +8,7 @@
 #include <string>
 #include <set>
 
-
+#include "Solves\S13.hpp"
 #include "Solves\S39.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
