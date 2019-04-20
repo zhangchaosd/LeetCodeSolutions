@@ -44,5 +44,8 @@
     <ClInclude Include="Solves\S20.hpp">
       <Filter>Solves</Filter>
     </ClInclude>
+    <ClInclude Include="Solves\S21.hpp">
+      <Filter>Solves</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
