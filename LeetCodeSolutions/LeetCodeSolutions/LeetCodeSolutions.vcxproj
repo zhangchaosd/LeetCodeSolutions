@@ -126,6 +126,7 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ListNode.h" />
     <ClInclude Include="S410.hpp" />
     <ClInclude Include="Solves\S13.hpp" />
     <ClInclude Include="Solves\S15.hpp" />
@@ -133,6 +134,7 @@
     <ClInclude Include="Solves\S21.hpp" />
     <ClInclude Include="Solves\S23.hpp" />
     <ClInclude Include="Solves\S24.hpp" />
+    <ClInclude Include="Solves\S25.hpp" />
     <ClInclude Include="Solves\S39.hpp" />
     <ClInclude Include="Solves\S922.hpp" />
     <ClInclude Include="Solves\S994.hpp" />
