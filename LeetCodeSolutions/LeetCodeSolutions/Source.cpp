@@ -10,6 +10,7 @@
 
 #include "Solves\S13.hpp"
 #include "Solves\S15.hpp"
+#include "Solves\S20.hpp"
 #include "Solves\S39.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
