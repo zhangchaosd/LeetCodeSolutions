@@ -128,6 +128,7 @@
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="S410.hpp" />
+    <ClInclude Include="Solves\S1029.hpp" />
     <ClInclude Include="Solves\S13.hpp" />
     <ClInclude Include="Solves\S15.hpp" />
     <ClInclude Include="Solves\S20.hpp" />
