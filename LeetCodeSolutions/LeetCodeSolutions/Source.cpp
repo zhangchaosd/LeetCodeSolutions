@@ -17,6 +17,7 @@
 #include "Solves\S23.hpp"
 #include "Solves\S24.hpp"
 #include "Solves\S25.hpp"
+#include "Solves\S26.hpp"
 #include "Solves\S39.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
