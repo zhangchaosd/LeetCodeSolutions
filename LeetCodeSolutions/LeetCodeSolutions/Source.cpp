@@ -22,6 +22,7 @@
 #include "Solves\S922.hpp"
 #include "Solves\S994.hpp"
 #include "Solves\S1029.hpp"
+#include "Solves\S1031.hpp"
 
 using namespace std;
 
