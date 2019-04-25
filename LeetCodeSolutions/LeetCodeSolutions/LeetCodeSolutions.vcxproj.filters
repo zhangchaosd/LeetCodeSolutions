@@ -83,5 +83,14 @@
     <ClInclude Include="Solves\S48.hpp">
       <Filter>Solves</Filter>
     </ClInclude>
+    <ClInclude Include="Solves\S53.hpp">
+      <Filter>Solves</Filter>
+    </ClInclude>
+    <ClInclude Include="Solves\S54.hpp">
+      <Filter>Solves</Filter>
+    </ClInclude>
+    <ClInclude Include="Solves\S55.hpp">
+      <Filter>Solves</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
