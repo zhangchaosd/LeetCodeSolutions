@@ -1,0 +1,12 @@
+
+*.db
+*.tlog
+*.exe
+LeetCodeSolutions/.vs/LeetCodeSolutions/v16/.suo
+*.log
+*.obj
+*.idb
+*.pdb
+*.ilk
+*.opendb
+*.ipch
