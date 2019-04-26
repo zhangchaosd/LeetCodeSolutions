@@ -28,6 +28,7 @@
 #include "Solves\S54.hpp"
 #include "Solves\S55.hpp"
 #include "Solves\S56.hpp"
+#include "Solves\S73.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
 #include "Solves\S994.hpp"

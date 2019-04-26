@@ -148,6 +148,7 @@
     <ClInclude Include="Solves\S54.hpp" />
     <ClInclude Include="Solves\S55.hpp" />
     <ClInclude Include="Solves\S56.hpp" />
+    <ClInclude Include="Solves\S73.hpp" />
     <ClInclude Include="Solves\S922.hpp" />
     <ClInclude Include="Solves\S994.hpp" />
   </ItemGroup>
