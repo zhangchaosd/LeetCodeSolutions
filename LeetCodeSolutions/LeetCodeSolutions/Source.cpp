@@ -39,6 +39,7 @@
 #include "Solves\S1029.hpp"
 #include "Solves\S1031.hpp"
 #include "Solves\S5040.hpp"
+#include "Solves\S5039.hpp"
 
 using namespace std;
 
