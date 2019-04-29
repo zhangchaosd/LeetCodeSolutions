@@ -156,7 +156,9 @@
     <ClInclude Include="Solves\S88.hpp" />
     <ClInclude Include="Solves\S91.hpp" />
     <ClInclude Include="Solves\S922.hpp" />
+    <ClInclude Include="Solves\S98.hpp" />
     <ClInclude Include="Solves\S994.hpp" />
+    <ClInclude Include="TreeNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

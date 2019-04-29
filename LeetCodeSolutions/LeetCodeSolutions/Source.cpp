@@ -9,6 +9,7 @@
 #include <set>
 
 #include "ListNode.h"
+#include "TreeNode.h"
 
 #include "Solves\S13.hpp"
 #include "Solves\S15.hpp"
@@ -33,6 +34,7 @@
 #include "Solves\S79.hpp"
 #include "Solves\S88.hpp"
 #include "Solves\S91.hpp"
+#include "Solves\S98.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
 #include "Solves\S994.hpp"
@@ -43,12 +45,6 @@
 
 using namespace std;
 
-struct TreeNode {
-	int val;
-	TreeNode* left;
-	TreeNode* right;
-	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
-};
 
 class Solution318 {
 public:
