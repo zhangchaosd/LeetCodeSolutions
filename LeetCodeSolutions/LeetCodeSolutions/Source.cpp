@@ -37,6 +37,7 @@
 #include "Solves\S98.hpp"
 #include "Solves\S103.hpp"
 #include "Solves\S104.hpp"
+#include "Solves\S116.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
 #include "Solves\S994.hpp"
