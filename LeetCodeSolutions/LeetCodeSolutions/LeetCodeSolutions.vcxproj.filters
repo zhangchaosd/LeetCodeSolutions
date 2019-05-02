@@ -137,5 +137,8 @@
     <ClInclude Include="Solves\S121.hpp">
       <Filter>Solves</Filter>
     </ClInclude>
+    <ClInclude Include="Solves\S124.hpp">
+      <Filter>Solves</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -40,6 +40,7 @@
 #include "Solves\S116.hpp"
 #include "Solves\S117.hpp"
 #include "Solves\S121.hpp"
+#include "Solves\S124.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
 #include "Solves\S994.hpp"
