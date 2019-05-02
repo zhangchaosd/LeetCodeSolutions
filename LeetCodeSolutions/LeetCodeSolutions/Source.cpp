@@ -43,7 +43,7 @@
 #include "Solves\S124.hpp"
 #include "Solves\S125.hpp"
 #include "Solves\S138.hpp"
-//#include "Solves\S141.hpp"
+#include "Solves\S141.hpp"
 //#include "Solves\S146.hpp"
 //#include "Solves\S151.hpp"
 //#include "Solves\S153.hpp"
