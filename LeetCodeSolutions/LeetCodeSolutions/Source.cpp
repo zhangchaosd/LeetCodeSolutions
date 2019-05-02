@@ -38,6 +38,8 @@
 #include "Solves\S103.hpp"
 #include "Solves\S104.hpp"
 #include "Solves\S116.hpp"
+#include "Solves\S117.hpp"
+#include "Solves\S121.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"
 #include "Solves\S994.hpp"
@@ -791,14 +793,8 @@ public:
 
 int main()
 {
-	S15 s;
-	vector<int>v1 = { 1,-1,-1,0 };
-	vector<int>v2 = { 1,1,0 };
-	vector<int>v3 = { 0,1,1 };
-
-	vector<vector<int> >v = { v1,v2,v3 };
-
-	printf("%d",s.threeSum(v1));
+	S117 s117;
+	s117.rt();
 
 
 	return 0;
