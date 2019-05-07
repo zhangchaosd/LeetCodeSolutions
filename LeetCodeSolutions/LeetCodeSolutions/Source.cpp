@@ -46,7 +46,7 @@
 #include "Solves\S141.hpp"
 #include "Solves\S142.hpp"
 //#include "Solves\S146.hpp"
-//#include "Solves\S151.hpp"
+#include "Solves\S151.hpp"
 //#include "Solves\S153.hpp"
 //#include "Solves\S160.hpp"
 //#include "Solves\S162.hpp"
