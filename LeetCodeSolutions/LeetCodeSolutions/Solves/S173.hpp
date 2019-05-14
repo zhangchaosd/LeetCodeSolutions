@@ -19,7 +19,7 @@ using namespace std;
   * };
   */
 class BSTIterator {
-	list<TreeNode*>pa;
+	vector<TreeNode*>pa;
 public:
 	BSTIterator(TreeNode* root) {
 		while (root)
@@ -31,7 +31,7 @@ public:
 
 	/** @return the next smallest number */
 	int next() {
-		TreeNode* cur = pa.back();
+		TreeNode* cur = pa[pa.size() - 1];
 		pa.pop_back();
 		int res = cur->val;
 		if (cur->right)
@@ -60,6 +60,7 @@ public:
  * int param_1 = obj->next();
  * bool param_2 = obj->hasNext();
  */
+
 
 
 
