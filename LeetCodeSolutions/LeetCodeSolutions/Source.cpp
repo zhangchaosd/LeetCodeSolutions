@@ -59,7 +59,7 @@
 #include "Solves\S191.hpp"
 //#include "Solves\S200.hpp"
 #include "Solves\S204.hpp"
-//#include "Solves\S206.hpp"
+#include "Solves\S206.hpp"
 //#include "Solves\S208.hpp"
 //#include "Solves\S212.hpp"
 //#include "Solves\S213.hpp"
