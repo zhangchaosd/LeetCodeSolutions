@@ -67,7 +67,7 @@
 //#include "Solves\S218.hpp"
 #include "Solves\S232.hpp"
 #include "Solves\S235.hpp"
-//#include "Solves\S236.hpp"
+#include "Solves\S236.hpp"
 //#include "Solves\S237.hpp"
 //#include "Solves\S238.hpp"
 //#include "Solves\S258.hpp"
