@@ -70,7 +70,7 @@
 #include "Solves\S236.hpp"
 #include "Solves\S237.hpp"
 #include "Solves\S238.hpp"
-//#include "Solves\S258.hpp"
+#include "Solves\S258.hpp"
 //#include "Solves\S268.hpp"
 #include "Solves\S410.hpp"
 #include "Solves\S922.hpp"

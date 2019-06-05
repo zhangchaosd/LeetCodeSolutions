@@ -167,6 +167,7 @@
     <ClInclude Include="Solves\S238.hpp" />
     <ClInclude Include="Solves\S24.hpp" />
     <ClInclude Include="Solves\S25.hpp" />
+    <ClInclude Include="Solves\S258.hpp" />
     <ClInclude Include="Solves\S26.hpp" />
     <ClInclude Include="Solves\S28.hpp" />
     <ClInclude Include="Solves\S33.hpp" />
